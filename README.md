@@ -26,3 +26,14 @@ automatisch auf **Decimal**-Arithmetik umgeschaltet, um Detailverlust zu vermeid
 ```bash
 git clone https://github.com/nlblime/mandelbrot.git
 cd mandelbrot
+```
+
+### 2️⃣ Abhängigkeiten installieren
+```bash
+pip install -r requirements.txt
+```
+
+### ▶️ Starten
+```bash
+python Mandelbrot.py
+```
