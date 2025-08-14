@@ -1,6 +1,6 @@
 # 🌌 Mandelbrot – Interaktive Fraktal-Visualisierung (Python)
 
-![Mandelbrot Screenshot](./docs/screenshot.png)
+![Mandelbrot Screenshot](./docs/mandelbrot.png)
 
 **Mandelbrot** rendert die Mandelbrot-Menge in Echtzeit mit **Numba** (JIT), **NumPy** und **Pygame**.  
 Zoom, Pan und dynamische Iterationsanpassung sorgen für flüssige Exploration – bei extremen Zooms wird
