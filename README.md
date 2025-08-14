@@ -19,11 +19,11 @@ automatisch auf **Decimal**-Arithmetik umgeschaltet, um Detailverlust zu vermeid
 
 ## 🎮 Steuerung
 
->**Mausrad:** Zoomen (zum Mauszeiger hin/weg)
->**Linke Maustaste halten + ziehen:** Panning/Verschieben
->**Pfeil ↑:** Basis-Iterationszahl verdoppeln (mehr Details)
->**Pfeil ↓:** Basis-Iterationszahl halbieren (schneller)
->**ESC oder Fenster schließen:** Beenden
+- **Mausrad:** Zoomen (zum Mauszeiger hin/weg)
+- **Linke Maustaste halten + ziehen:** Panning/Verschieben
+- **Pfeil ↑:** Basis-Iterationszahl verdoppeln (mehr Details)
+- **Pfeil ↓:** Basis-Iterationszahl halbieren (schneller)
+- **ESC oder Fenster schließen:** Beenden
 
 ---
 
