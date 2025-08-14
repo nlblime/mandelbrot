@@ -1,4 +1,4 @@
-# 🌌 Mandelbrot – Interaktive Fraktal-Visualisierung (Python)
+# Mandelbrot – Interaktive Fraktal-Visualisierung (Python)
 
 ![Mandelbrot Screenshot](./docs/mandelbrot.png)
 
